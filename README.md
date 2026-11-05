@@ -1,5 +1,7 @@
 # briefagent
 
+[![tests](https://github.com/shivam-agarwala/briefagent/actions/workflows/ci.yml/badge.svg)](https://github.com/shivam-agarwala/briefagent/actions/workflows/ci.yml)
+
 A small Python CLI agent that reads a company's public website and writes a
 one-page sourced brief: what they sell, who they sell to, and one outreach
 hook. Every claim carries the URL the agent actually fetched to support it.
