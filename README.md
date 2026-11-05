@@ -361,6 +361,12 @@ Tier 1, automatic:
 
 Tier 2, hand labelled: not run. `eval/claims.csv` has 190 unlabelled rows.
 
+Every brief and trace is committed. Browse them in
+[`eval/results/`](eval/results/), or look at one company end to end:
+[the agent's brief for Retool](eval/results/retool-com/agent/brief.md),
+[its trace](eval/results/retool-com/agent/trace.jsonl), and
+[what the fixed crawl produced for the same company](eval/results/retool-com/baseline_fixed/brief.md).
+
 ### What the result says
 
 **The agent lost.** Against a fixed keyword crawl with a comparable page budget
