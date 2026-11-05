@@ -10,9 +10,9 @@ No agent framework. Plain Python plus one provider SDK. The point of the
 project is not the agent, it is the eval: measuring whether letting a model
 choose which pages to read beats not letting it.
 
-**It does not.** Against a fixed keyword crawl with the same page budget, the
-agent used 2.4x the tokens and verified 11.9 fewer points of its citations,
-with a confidence interval excluding zero. See [Results](#results).
+**It does not.** Against a fixed keyword crawl reading the same number of pages, 
+the agent used 2.4x the tokens and verified 11.9 fewer points of its citations. 
+See [Results](#results).
 
 ## How it works
 
