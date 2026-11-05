@@ -1,0 +1,79 @@
+{
+  "company_name": "Ramp",
+  "dropped_claims": [],
+  "what_they_sell": [
+    {
+      "claim": "Ramp provides corporate cards, expense management, accounts payable, and banking services on a unified platform.",
+      "source_url": "https://ramp.com",
+      "cited_excerpt": "Cards, expenses, bill payments, and banking",
+      "excerpt_found": true
+    },
+    {
+      "claim": "Ramp’s AI agents automatically collect and match receipts for expense processing.",
+      "source_url": "https://ramp.com/pricing",
+      "cited_excerpt": "Auto-receipt collection and matching",
+      "excerpt_found": true
+    },
+    {
+      "claim": "Ramp Stack automates reconciliations, scheduling, and monthly reporting tasks.",
+      "source_url": "https://ramp.com/stack",
+      "cited_excerpt": "Run reconciliations, schedules, and monthly reporting end to end",
+      "excerpt_found": true
+    }
+  ],
+  "who_they_sell_to": [
+    {
+      "claim": "Ramp serves over 85,000 ambitious companies worldwide.",
+      "source_url": "https://ramp.com",
+      "cited_excerpt": "Join 85,000 of the world’s most ambitious companies",
+      "excerpt_found": true
+    },
+    {
+      "claim": "Ramp’s platform supports businesses operating in more than 190 countries with local cards and payments.",
+      "source_url": "https://ramp.com/global",
+      "cited_excerpt": "Cards, payments, reimbursements—all on one unified platform, available in 190+ countries.",
+      "excerpt_found": true
+    },
+    {
+      "claim": "Ramp offers solutions for startups, global enterprises, and mid‑size teams.",
+      "source_url": "https://ramp.com/pricing",
+      "cited_excerpt": "Whether you’re a startup, global enterprise, or somewhere in between",
+      "excerpt_found": true
+    }
+  ],
+  "outreach_hook": [
+    {
+      "claim": "Ramp Stack can accelerate financial close times by up to 60% for its clients.",
+      "source_url": "https://ramp.com/stack",
+      "cited_excerpt": "Up to 60% faster closes for clients.",
+      "excerpt_found": true
+    }
+  ],
+  "company_url": "https://ramp.com",
+  "incomplete": false,
+  "incomplete_reason": "",
+  "fetched_urls": [
+    "https://ramp.com",
+    "https://ramp.com/global",
+    "https://ramp.com/pricing",
+    "https://ramp.com/stack"
+  ],
+  "tool_calls": 4,
+  "system": "baseline_fixed",
+  "run_summary": {
+    "type": "run_summary",
+    "system": "baseline_fixed",
+    "company_url": "https://ramp.com",
+    "outcome": "ok",
+    "steps": 5,
+    "tool_calls": 4,
+    "claims": 7,
+    "incomplete": false,
+    "errors": 0,
+    "tokens_in": 2804,
+    "tokens_out": 1307,
+    "cost_usd": 0.0,
+    "cost_priced": false,
+    "wall_ms": 61362
+  }
+}

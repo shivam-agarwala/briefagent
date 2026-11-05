@@ -1,0 +1,76 @@
+{
+  "company_name": "Spendesk",
+  "dropped_claims": [],
+  "what_they_sell": [
+    {
+      "claim": "Spendesk provides a single platform that manages purchases, payments, and expense reconciliation.",
+      "source_url": "https://www.spendesk.com/fr",
+      "cited_excerpt": "Une seule plateforme. Toutes vos dépenses. De l’achat au paiement, jusqu’à la réconciliation, chaque dépense reste liée au bon parcours…",
+      "excerpt_found": false
+    },
+    {
+      "claim": "Spendesk offers intelligent corporate cards that give teams flexibility while maintaining finance control.",
+      "source_url": "https://www.spendesk.com/fr",
+      "cited_excerpt": "Cartes d’entreprise intelligentes",
+      "excerpt_found": true
+    },
+    {
+      "claim": "Spendesk automates expense report collection, achieving 98% receipt capture without reminders.",
+      "source_url": "https://www.spendesk.com/fr",
+      "cited_excerpt": "Notes de frais sans relances 98 % des reçus collectés, sans la moindre relance",
+      "excerpt_found": true
+    }
+  ],
+  "who_they_sell_to": [
+    {
+      "claim": "Spendesk is used by over 3,000 finance leaders across Europe.",
+      "source_url": "https://www.spendesk.com/fr",
+      "cited_excerpt": "Déjà adoptée par plus de 3 000 responsables financiers à travers le continent.",
+      "excerpt_found": true
+    },
+    {
+      "claim": "Spendesk targets CFOs and finance directors, incorporating feedback from more than 12,000 of them.",
+      "source_url": "https://www.spendesk.com/fr",
+      "cited_excerpt": "Conçue grâce aux retours de plus de 12 000 directeurs financiers de la communauté CFO Connect",
+      "excerpt_found": true
+    },
+    {
+      "claim": "Spendesk serves companies needing a regulated European expense‑management solution.",
+      "source_url": "https://www.spendesk.com/fr",
+      "cited_excerpt": "Une plateforme européenne, réglementée et rentable.",
+      "excerpt_found": true
+    }
+  ],
+  "outreach_hook": [
+    {
+      "claim": "Spendesk recently launched AI Connect, enabling finance teams to query data, generate reports, and automate workflows via an AI assistant.",
+      "source_url": "https://www.spendesk.com/fr",
+      "cited_excerpt": "Nouveau: Spendesk AI Connect … Posez vos questions, retrouvez une information précise, créez vos rapports et automatisez vos workflows depuis l’assistant IA de votre choix.",
+      "excerpt_found": false
+    }
+  ],
+  "company_url": "https://www.spendesk.com/fr/",
+  "incomplete": false,
+  "incomplete_reason": "",
+  "fetched_urls": [
+    "https://www.spendesk.com/fr"
+  ],
+  "tool_calls": 1,
+  "system": "baseline_home",
+  "run_summary": {
+    "type": "run_summary",
+    "system": "baseline_home",
+    "company_url": "https://www.spendesk.com/fr/",
+    "outcome": "ok",
+    "steps": 2,
+    "tool_calls": 1,
+    "claims": 7,
+    "incomplete": false,
+    "errors": 0,
+    "tokens_in": 1242,
+    "tokens_out": 1021,
+    "cost_usd": 0.0,
+    "cost_priced": false,
+    "wall_ms": 61391
+  }
+}

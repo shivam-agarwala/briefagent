@@ -1,0 +1,77 @@
+{
+  "company_name": "Snowflake",
+  "dropped_claims": [],
+  "what_they_sell": [
+    {
+      "claim": "Snowflake provides a fully managed data cloud platform that is easy to use, connects across the entire data estate, and is trusted by thousands of customers.",
+      "source_url": "https://www.snowflake.com/en",
+      "cited_excerpt": "The Snowflake platform is a fully managed service that’s easy to use, connected across your entire data estate and trusted by thousands of customers.",
+      "excerpt_found": false
+    },
+    {
+      "claim": "Snowflake enables secure creation and deployment of large language models (LLMs) and machine learning models customized with a customer's data.",
+      "source_url": "https://www.snowflake.com/en",
+      "cited_excerpt": "AI Securely create and deploy LLMs and ML models customized with your data.",
+      "excerpt_found": true
+    },
+    {
+      "claim": "Snowflake offers data engineering tools to build reliable, continuous data pipelines for enterprises using any programming language.",
+      "source_url": "https://www.snowflake.com/en",
+      "cited_excerpt": "Data Engineering Build reliable, continuous data pipelines for the enterprise in the language of your choice.",
+      "excerpt_found": true
+    }
+  ],
+  "who_they_sell_to": [
+    {
+      "claim": "Snowflake serves thousands of enterprise customers across industries.",
+      "source_url": "https://www.snowflake.com/en",
+      "cited_excerpt": "trusted by thousands of customers.",
+      "excerpt_found": true
+    },
+    {
+      "claim": "Snowflake targets enterprise organizations that need reliable data pipelines.",
+      "source_url": "https://www.snowflake.com/en",
+      "cited_excerpt": "Build reliable, continuous data pipelines for the enterprise",
+      "excerpt_found": true
+    },
+    {
+      "claim": "Snowflake partners with organizations such as USA Cycling to deliver AI‑driven data solutions.",
+      "source_url": "https://www.snowflake.com/en",
+      "cited_excerpt": "Snowflake Announces Official AI Data Cloud & Collaboration Partnership with USA Cycling",
+      "excerpt_found": true
+    }
+  ],
+  "outreach_hook": [
+    {
+      "claim": "Snowflake announced an AI Data Cloud and Collaboration partnership with USA Cycling.",
+      "source_url": "https://www.snowflake.com/en",
+      "cited_excerpt": "Snowflake Announces Official AI Data Cloud & Collaboration Partnership with USA Cycling",
+      "excerpt_found": true
+    }
+  ],
+  "company_url": "https://www.snowflake.com",
+  "incomplete": false,
+  "incomplete_reason": "",
+  "fetched_urls": [
+    "https://www.snowflake.com",
+    "https://www.snowflake.com/en"
+  ],
+  "tool_calls": 1,
+  "system": "baseline_home",
+  "run_summary": {
+    "type": "run_summary",
+    "system": "baseline_home",
+    "company_url": "https://www.snowflake.com",
+    "outcome": "ok",
+    "steps": 2,
+    "tool_calls": 1,
+    "claims": 7,
+    "incomplete": false,
+    "errors": 0,
+    "tokens_in": 1724,
+    "tokens_out": 1931,
+    "cost_usd": 0.0,
+    "cost_priced": false,
+    "wall_ms": 62476
+  }
+}

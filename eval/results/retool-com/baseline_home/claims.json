@@ -1,0 +1,76 @@
+{
+  "company_name": "Retool",
+  "dropped_claims": [],
+  "what_they_sell": [
+    {
+      "claim": "Retool provides an app builder that generates full, production‑ready internal tools with built‑in security and governance.",
+      "source_url": "https://retool.com",
+      "cited_excerpt": "Describe what you want and get a full, production-ready app with enterprise security and governance built in.",
+      "excerpt_found": true
+    },
+    {
+      "claim": "Retool offers AI agents via its MCP server or CLI to build and deploy apps within a governed environment.",
+      "source_url": "https://retool.com",
+      "cited_excerpt": "Use our MCP server or CLI to build an app and deploy it here within your governed Retool environment.",
+      "excerpt_found": true
+    },
+    {
+      "claim": "Retool enables importing React code, ZIP files, or GitHub sync to deploy apps built on external platforms.",
+      "source_url": "https://retool.com",
+      "cited_excerpt": "Import React code Deploy apps built in Lovable, Replit, and other platforms. Upload a ZIP file or sync with GitHub.",
+      "excerpt_found": true
+    }
+  ],
+  "who_they_sell_to": [
+    {
+      "claim": "Retool is used by over 10,000 enterprise teams building internal applications.",
+      "source_url": "https://retool.com",
+      "cited_excerpt": "Trusted by 10,000+ teams to generate production-ready AI applications",
+      "excerpt_found": true
+    },
+    {
+      "claim": "Manufacturers and logistics firms adopt Retool to modernize warehouse and supply‑chain operations.",
+      "source_url": "https://retool.com",
+      "cited_excerpt": "The leading manufacturers and logistics companies use Retool to modernize operations across warehouses, fulfillment centers, and global supply networks.",
+      "excerpt_found": true
+    },
+    {
+      "claim": "Banks and fintech companies use Retool to modernize operations while maintaining compliance.",
+      "source_url": "https://retool.com",
+      "cited_excerpt": "The leading banks and fintech companies use Retool to modernize operations without compromising compliance.",
+      "excerpt_found": true
+    }
+  ],
+  "outreach_hook": [
+    {
+      "claim": "Ramp reduced costs by $8 million and saved over 20,000 hours after adopting Retool.",
+      "source_url": "https://retool.com",
+      "cited_excerpt": "Ramp saved $8M and 20,000+ hours",
+      "excerpt_found": true
+    }
+  ],
+  "company_url": "https://retool.com",
+  "incomplete": false,
+  "incomplete_reason": "",
+  "fetched_urls": [
+    "https://retool.com"
+  ],
+  "tool_calls": 1,
+  "system": "baseline_home",
+  "run_summary": {
+    "type": "run_summary",
+    "system": "baseline_home",
+    "company_url": "https://retool.com",
+    "outcome": "ok",
+    "steps": 2,
+    "tool_calls": 1,
+    "claims": 7,
+    "incomplete": false,
+    "errors": 0,
+    "tokens_in": 1187,
+    "tokens_out": 1135,
+    "cost_usd": 0.0,
+    "cost_priced": false,
+    "wall_ms": 59431
+  }
+}

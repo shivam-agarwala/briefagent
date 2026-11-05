@@ -1,0 +1,71 @@
+{
+  "company_name": "Sastrify",
+  "dropped_claims": [],
+  "what_they_sell": [
+    {
+      "claim": "Sastrify offers an AI‑powered platform that automatically discovers and inventories all software tools used by a company.",
+      "source_url": "https://www.sastrify.com",
+      "cited_excerpt": "Sastrify connects to your systems ... automatically discovers every software tool in use.",
+      "excerpt_found": false
+    },
+    {
+      "claim": "The platform automates renewal alerts, approvals, and vendor tracking to prevent missed renewals.",
+      "source_url": "https://www.sastrify.com",
+      "cited_excerpt": "Never miss another renewal or chase a contract again. Sastrify automates renewal alerts, approvals, and vendor tracking.",
+      "excerpt_found": false
+    },
+    {
+      "claim": "It benchmarks software contracts and uses AI to recommend fair pricing and optimal renewal timing.",
+      "source_url": "https://www.sastrify.com",
+      "cited_excerpt": "Sastrify benchmarks every software contract against thousands of live data points. Our AI suggests fair pricing, renewal timing, and negotiation levers.",
+      "excerpt_found": false
+    }
+  ],
+  "who_they_sell_to": [
+    {
+      "claim": "Sastrify targets IT, procurement, and finance teams within organizations.",
+      "source_url": "https://www.sastrify.com",
+      "cited_excerpt": "Sastrify empowers IT, Procurement, and Finance teams with full visibility, automated tracking, and guaranteed ROI on their software landscape.",
+      "excerpt_found": true
+    },
+    {
+      "claim": "It serves companies seeking to eliminate shadow IT and enforce software compliance.",
+      "source_url": "https://www.sastrify.com",
+      "cited_excerpt": "Eliminate Shadow IT, enforce compliance, and unlock AI‑powered monitoring across your software landscape fast.",
+      "excerpt_found": false
+    }
+  ],
+  "outreach_hook": [
+    {
+      "claim": "Sastrify raised over $35 million in a Series B round in 2023.",
+      "source_url": "https://www.sastrify.com/about",
+      "cited_excerpt": "2023 $35M+ Series B funding with Endeit, Simon Capital and Reimann Investors.",
+      "excerpt_found": false
+    }
+  ],
+  "company_url": "https://www.sastrify.com",
+  "incomplete": false,
+  "incomplete_reason": "",
+  "tool_calls": 3,
+  "fetched_urls": [
+    "https://www.sastrify.com",
+    "https://www.sastrify.com/about"
+  ],
+  "system": "agent",
+  "run_summary": {
+    "type": "run_summary",
+    "system": "agent",
+    "company_url": "https://www.sastrify.com",
+    "outcome": "ok",
+    "steps": 7,
+    "tool_calls": 3,
+    "claims": 6,
+    "incomplete": false,
+    "errors": 1,
+    "tokens_in": 5915,
+    "tokens_out": 1453,
+    "cost_usd": 0.0,
+    "cost_priced": false,
+    "wall_ms": 181847
+  }
+}

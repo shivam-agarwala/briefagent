@@ -1,0 +1,70 @@
+{
+  "company_name": "Postman",
+  "dropped_claims": [],
+  "what_they_sell": [
+    {
+      "claim": "Postman provides an API discovery tool that lets users find and reuse APIs already in their organization.",
+      "source_url": "https://www.postman.com",
+      "cited_excerpt": "Find and reuse the APIs already in your org",
+      "excerpt_found": true
+    },
+    {
+      "claim": "Postman offers API testing capabilities that generate request collections and assertions to catch regressions.",
+      "source_url": "https://www.postman.com",
+      "cited_excerpt": "Generate request collections and assertions that catch regressions",
+      "excerpt_found": true
+    },
+    {
+      "claim": "Postman includes performance testing to simulate real-world load and surface bottlenecks.",
+      "source_url": "https://www.postman.com",
+      "cited_excerpt": "Simulate real-world load to surface bottlenecks",
+      "excerpt_found": true
+    }
+  ],
+  "who_they_sell_to": [
+    {
+      "claim": "Postman targets developers and teams who need to browse, request, and manage access to approved APIs within an organization.",
+      "source_url": "https://www.postman.com",
+      "cited_excerpt": "Browse approved APIs, pick a duration, and request access. An admin approves the scope and can revoke it at any time.",
+      "excerpt_found": true
+    },
+    {
+      "claim": "Postman serves security and operations teams by providing a Secure Access Proxy that validates callers and swaps credentials inside the cloud.",
+      "source_url": "https://www.postman.com",
+      "cited_excerpt": "The proxy checks the caller and scope, then swaps the reference for the real secret inside your cloud.",
+      "excerpt_found": true
+    }
+  ],
+  "outreach_hook": [
+    {
+      "claim": "Postman's Context Graph increased discovered services from 129 to 498 in a checkout scenario.",
+      "source_url": "https://www.postman.com",
+      "cited_excerpt": "An agent in one checkout finds 129 services. With the Context Graph, it finds 498.",
+      "excerpt_found": true
+    }
+  ],
+  "company_url": "https://www.postman.com",
+  "incomplete": false,
+  "incomplete_reason": "",
+  "fetched_urls": [
+    "https://www.postman.com"
+  ],
+  "tool_calls": 1,
+  "system": "baseline_home",
+  "run_summary": {
+    "type": "run_summary",
+    "system": "baseline_home",
+    "company_url": "https://www.postman.com",
+    "outcome": "ok",
+    "steps": 2,
+    "tool_calls": 1,
+    "claims": 6,
+    "incomplete": false,
+    "errors": 0,
+    "tokens_in": 1210,
+    "tokens_out": 1172,
+    "cost_usd": 0.0,
+    "cost_priced": false,
+    "wall_ms": 56188
+  }
+}

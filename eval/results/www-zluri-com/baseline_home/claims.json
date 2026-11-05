@@ -1,0 +1,76 @@
+{
+  "company_name": "Zluri",
+  "dropped_claims": [],
+  "what_they_sell": [
+    {
+      "claim": "Zluri provides continuous visibility across both human users and non‑human identities such as service accounts and AI agents.",
+      "source_url": "https://www.zluri.com",
+      "cited_excerpt": "Continuous visibility across human and non-human identities",
+      "excerpt_found": true
+    },
+    {
+      "claim": "The platform offers real‑time risk identification and scoring for identity‑related threats.",
+      "source_url": "https://www.zluri.com",
+      "cited_excerpt": "Real-time risk identification and scoring",
+      "excerpt_found": true
+    },
+    {
+      "claim": "Zluri sells an Identity Governance and Administration platform built on the IRIS identity intelligence layer.",
+      "source_url": "https://www.zluri.com",
+      "cited_excerpt": "IRIS is the architectural foundation of the Zluri platform — a real-time identity intelligence system",
+      "excerpt_found": true
+    }
+  ],
+  "who_they_sell_to": [
+    {
+      "claim": "Zluri targets large enterprises managing hundreds of SaaS, cloud, and AI applications.",
+      "source_url": "https://www.zluri.com",
+      "cited_excerpt": "Enterprises now run hundreds of SaaS apps, cloud platforms, and AI tools, each with its own identity model, access layer, and data footprint.",
+      "excerpt_found": true
+    },
+    {
+      "claim": "Its customers include leading organizations seeking advanced identity governance.",
+      "source_url": "https://www.zluri.com",
+      "cited_excerpt": "Trusted by Leading Organizations",
+      "excerpt_found": true
+    },
+    {
+      "claim": "The solution is aimed at organizations dealing with a proliferation of non‑human identities such as service accounts and API tokens.",
+      "source_url": "https://www.zluri.com",
+      "cited_excerpt": "Non-Human Identity Explosion Service accounts, API tokens, AI agents, and automation workflows now far outnumber human users",
+      "excerpt_found": true
+    }
+  ],
+  "outreach_hook": [
+    {
+      "claim": "Zluri’s IRIS layer delivers real‑time identity intelligence that connects and contextualizes every identity signal across an enterprise.",
+      "source_url": "https://www.zluri.com",
+      "cited_excerpt": "IRIS is the architectural foundation of the Zluri platform — a real-time identity intelligence system that connects, analyzes, and contextualizes every identity signal across your enterprise.",
+      "excerpt_found": true
+    }
+  ],
+  "company_url": "https://www.zluri.com",
+  "incomplete": false,
+  "incomplete_reason": "",
+  "fetched_urls": [
+    "https://www.zluri.com"
+  ],
+  "tool_calls": 1,
+  "system": "baseline_home",
+  "run_summary": {
+    "type": "run_summary",
+    "system": "baseline_home",
+    "company_url": "https://www.zluri.com",
+    "outcome": "ok",
+    "steps": 2,
+    "tool_calls": 1,
+    "claims": 7,
+    "incomplete": false,
+    "errors": 0,
+    "tokens_in": 1152,
+    "tokens_out": 1085,
+    "cost_usd": 0.0,
+    "cost_priced": false,
+    "wall_ms": 59008
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "company_name": "Sana",
+  "dropped_claims": [],
+  "what_they_sell": [
+    {
+      "claim": "Sana offers Sana Learn, an AI‑native learning platform that combines LMS, LXP, authoring, and virtual classroom features.",
+      "source_url": "https://sanalabs.com",
+      "cited_excerpt": "Sana Learn – The best of an LMS, LXP, authoring tool, and virtual classroom in one AI‑native learning platform.",
+      "excerpt_found": false
+    },
+    {
+      "claim": "Sana provides an enterprise AI platform that embeds AI into company applications, knowledge bases, and workflows.",
+      "source_url": "https://sanalabs.com",
+      "cited_excerpt": "Your enterprise AI platform for real work. A seamless, beautiful way to bring AI into your company’s apps, knowledge, and culture.",
+      "excerpt_found": true
+    }
+  ],
+  "who_they_sell_to": [
+    {
+      "claim": "Sana targets corporate teams that need AI‑enhanced tools for productivity and learning.",
+      "source_url": "https://sanalabs.com",
+      "cited_excerpt": "Give your teams the tools they need to thrive in an AI‑first world.",
+      "excerpt_found": false
+    },
+    {
+      "claim": "Sana’s customers are enterprises seeking to integrate AI across their operations.",
+      "source_url": "https://sanalabs.com",
+      "cited_excerpt": "Your enterprise AI platform for real work.",
+      "excerpt_found": true
+    }
+  ],
+  "outreach_hook": [
+    {
+      "claim": "Sana has been acquired by Workday, integrating its AI platform into Workday's ecosystem.",
+      "source_url": "https://sanalabs.com",
+      "cited_excerpt": "Sana is now part of Workday.",
+      "excerpt_found": true
+    }
+  ],
+  "company_url": "https://sanalabs.com",
+  "incomplete": false,
+  "incomplete_reason": "",
+  "tool_calls": 3,
+  "fetched_urls": [
+    "https://sanalabs.com"
+  ],
+  "system": "agent",
+  "run_summary": {
+    "type": "run_summary",
+    "system": "agent",
+    "company_url": "https://sanalabs.com",
+    "outcome": "ok",
+    "steps": 8,
+    "tool_calls": 3,
+    "claims": 5,
+    "incomplete": false,
+    "errors": 2,
+    "tokens_in": 6329,
+    "tokens_out": 1625,
+    "cost_usd": 0.0,
+    "cost_priced": false,
+    "wall_ms": 123444
+  }
+}

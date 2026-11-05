@@ -1,0 +1,79 @@
+{
+  "company_name": "Sastrify",
+  "dropped_claims": [],
+  "what_they_sell": [
+    {
+      "claim": "Sastrify offers an AI‑driven platform that automatically discovers all software tools and maps their ownership, usage, renewals, and spend.",
+      "source_url": "https://www.sastrify.com",
+      "cited_excerpt": "automatically discovers every software tool in use... maps ownership, usage, renewals, and spend",
+      "excerpt_found": false
+    },
+    {
+      "claim": "Sastrify provides managed procurement services where experts negotiate contracts using a $6 billion‑plus benchmark database.",
+      "source_url": "https://www.sastrify.com/solutions/procurement",
+      "cited_excerpt": "our certified experts can handle sourcing, pricing, and negotiation on your behalf... $6B+ in pricing data",
+      "excerpt_found": false
+    },
+    {
+      "claim": "Its modular pricing includes a Software Management tier starting at €12.5 k per year that delivers automated inventory and risk monitoring.",
+      "source_url": "https://www.sastrify.com/pricing",
+      "cited_excerpt": "Software Management starting from €12.5 k / year Full visibility on your software stack & automated risk management",
+      "excerpt_found": false
+    }
+  ],
+  "who_they_sell_to": [
+    {
+      "claim": "The platform is sold to IT, procurement, and finance teams seeking full software visibility and cost control.",
+      "source_url": "https://www.sastrify.com",
+      "cited_excerpt": "Sastrify empowers IT, Procurement, and Finance teams with full visibility, automated tracking, and guaranteed ROI",
+      "excerpt_found": true
+    },
+    {
+      "claim": "Its procurement solution serves finance, legal, IT, and business stakeholders by providing end‑to‑end request visibility and audit trails.",
+      "source_url": "https://www.sastrify.com/solutions/procurement",
+      "cited_excerpt": "keep finance, legal, IT, and business teams aligned and informed",
+      "excerpt_found": true
+    },
+    {
+      "claim": "Sastrify targets enterprises that need to eliminate shadow IT, enforce compliance, and monitor software usage at scale.",
+      "source_url": "https://www.sastrify.com",
+      "cited_excerpt": "Eliminate Shadow IT, enforce compliance, and unlock AI-powered monitoring across your software landscape fast",
+      "excerpt_found": true
+    }
+  ],
+  "outreach_hook": [
+    {
+      "claim": "Sastrify brings 90% of a company's software vendors and spend under management within just one week.",
+      "source_url": "https://www.sastrify.com",
+      "cited_excerpt": "90% of vendors and spend under management within 7 days.",
+      "excerpt_found": true
+    }
+  ],
+  "company_url": "https://www.sastrify.com",
+  "incomplete": false,
+  "incomplete_reason": "",
+  "fetched_urls": [
+    "https://www.sastrify.com",
+    "https://www.sastrify.com/about",
+    "https://www.sastrify.com/pricing",
+    "https://www.sastrify.com/solutions/procurement"
+  ],
+  "tool_calls": 4,
+  "system": "baseline_fixed",
+  "run_summary": {
+    "type": "run_summary",
+    "system": "baseline_fixed",
+    "company_url": "https://www.sastrify.com",
+    "outcome": "ok",
+    "steps": 5,
+    "tool_calls": 4,
+    "claims": 7,
+    "incomplete": false,
+    "errors": 0,
+    "tokens_in": 2640,
+    "tokens_out": 1555,
+    "cost_usd": 0.0,
+    "cost_priced": false,
+    "wall_ms": 60080
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "company_name": "Celonis",
+  "dropped_claims": [],
+  "what_they_sell": [
+    {
+      "claim": "Celonis sells the Celonis Platform, a process‑mining solution that builds a real‑time digital twin of a company’s operations.",
+      "source_url": "https://www.celonis.com/platform",
+      "cited_excerpt": "The Celonis Platform brings together process data, business knowledge, and intelligence ... to create a dynamic, real-time digital twin of your operations.",
+      "excerpt_found": false
+    },
+    {
+      "claim": "Its Data Core layer extracts data from any source and can query billions of records instantly.",
+      "source_url": "https://www.celonis.com/platform",
+      "cited_excerpt": "Data Core lets you extract data from any source and query billions of records at speed, scaling to even the largest enterprise volumes.",
+      "excerpt_found": true
+    },
+    {
+      "claim": "The platform enables AI‑driven process analysis, design, and operation for enterprise AI initiatives.",
+      "source_url": "https://www.celonis.com",
+      "cited_excerpt": "More than 1,400 companies around the world use Celonis to analyze, design, and operate AI-driven processes.",
+      "excerpt_found": true
+    }
+  ],
+  "who_they_sell_to": [
+    {
+      "claim": "Celonis targets large enterprises in supply chain, manufacturing, banking, and IT sectors.",
+      "source_url": "https://www.celonis.com",
+      "cited_excerpt": "Make supply chains work. Make manufacturing work. Make banking work. Make IT work.",
+      "excerpt_found": true
+    },
+    {
+      "claim": "It serves IT services firms such as Fujitsu.",
+      "source_url": "https://www.celonis.com/solutions/stories",
+      "cited_excerpt": "Fujitsu uses Celonis to gain full transparency into inventory levels and AI‑enhanced recommendations about when to stock‑up, re‑allocate, and refrain from buying materials.",
+      "excerpt_found": false
+    },
+    {
+      "claim": "It also works with financial institutions like Standard Bank.",
+      "source_url": "https://www.celonis.com/solutions/stories",
+      "cited_excerpt": "Standard Bank uses Celonis Process Intelligence to transform CIB Operations—from optimizing cross-border payments to enabling transparency, AI, and automation.",
+      "excerpt_found": true
+    }
+  ],
+  "outreach_hook": [
+    {
+      "claim": "Celonis serves over 1,400 enterprise customers worldwide.",
+      "source_url": "https://www.celonis.com",
+      "cited_excerpt": "More than 1,400 companies around the world use Celonis to analyze, design, and operate AI-driven processes.",
+      "excerpt_found": true
+    }
+  ],
+  "company_url": "https://www.celonis.com",
+  "incomplete": false,
+  "incomplete_reason": "",
+  "tool_calls": 3,
+  "fetched_urls": [
+    "https://www.celonis.com",
+    "https://www.celonis.com/customers",
+    "https://www.celonis.com/platform",
+    "https://www.celonis.com/solutions/stories"
+  ],
+  "system": "agent",
+  "run_summary": {
+    "type": "run_summary",
+    "system": "agent",
+    "company_url": "https://www.celonis.com",
+    "outcome": "ok",
+    "steps": 7,
+    "tool_calls": 3,
+    "claims": 7,
+    "incomplete": false,
+    "errors": 0,
+    "tokens_in": 6990,
+    "tokens_out": 1894,
+    "cost_usd": 0.0,
+    "cost_priced": false,
+    "wall_ms": 180383
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "company_name": "Linear",
+  "dropped_claims": [],
+  "what_they_sell": [
+    {
+      "claim": "Linear provides a product development platform built for both human teams and AI agents.",
+      "source_url": "https://linear.app",
+      "cited_excerpt": "The product development system for teams and agents",
+      "excerpt_found": true
+    },
+    {
+      "claim": "Linear converts conversations and feedback into actionable, routed issues without manual effort.",
+      "source_url": "https://linear.app",
+      "cited_excerpt": "Automatically turn conversations and customer feedback into actionable issues",
+      "excerpt_found": true
+    },
+    {
+      "claim": "Linear reduces workflow noise to accelerate shipping speed for development teams.",
+      "source_url": "https://linear.app",
+      "cited_excerpt": "Reduces noise and restores momentum to help teams ship with high velocity and focus",
+      "excerpt_found": true
+    }
+  ],
+  "who_they_sell_to": [
+    {
+      "claim": "Linear targets modern product and engineering teams that use AI‑enhanced workflows.",
+      "source_url": "https://linear.app",
+      "cited_excerpt": "Purpose-built for modern teams with AI workflows at its core",
+      "excerpt_found": true
+    },
+    {
+      "claim": "Linear serves companies focused on building next‑generation products.",
+      "source_url": "https://linear.app",
+      "cited_excerpt": "Powering the companies building the future",
+      "excerpt_found": true
+    },
+    {
+      "claim": "Linear is aimed at organizations that combine human and AI agents in their development processes.",
+      "source_url": "https://linear.app",
+      "cited_excerpt": "Designed for workflows shared by humans and agents",
+      "excerpt_found": true
+    }
+  ],
+  "outreach_hook": [
+    {
+      "claim": "Linear can automatically create issue tickets from Slack messages.",
+      "source_url": "https://linear.app",
+      "cited_excerpt": "Linear created the issue via Slack on behalf of Karri",
+      "excerpt_found": true
+    }
+  ],
+  "company_url": "https://linear.app",
+  "incomplete": false,
+  "incomplete_reason": "",
+  "fetched_urls": [
+    "https://linear.app"
+  ],
+  "tool_calls": 1,
+  "system": "baseline_home",
+  "run_summary": {
+    "type": "run_summary",
+    "system": "baseline_home",
+    "company_url": "https://linear.app",
+    "outcome": "ok",
+    "steps": 2,
+    "tool_calls": 1,
+    "claims": 7,
+    "incomplete": false,
+    "errors": 0,
+    "tokens_in": 1278,
+    "tokens_out": 1264,
+    "cost_usd": 0.0,
+    "cost_priced": false,
+    "wall_ms": 62624
+  }
+}

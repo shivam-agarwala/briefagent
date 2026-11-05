@@ -1,0 +1,66 @@
+{
+  "company_name": "Postman",
+  "dropped_claims": [],
+  "what_they_sell": [
+    {
+      "claim": "Postman offers an end‑to‑end API platform covering design, documentation, testing, monitoring, security, and governance.",
+      "source_url": "https://www.postman.com/platform/",
+      "cited_excerpt": "Postman streamlines every stage of the API lifecycle, from first design to production, in a single, secure platform",
+      "excerpt_found": true
+    },
+    {
+      "claim": "Postman provides tools for API testing, mock servers, monitoring, and security governance.",
+      "source_url": "https://www.postman.com/platform/",
+      "cited_excerpt": "API testing Mock servers API monitoring API security and governance",
+      "excerpt_found": false
+    }
+  ],
+  "who_they_sell_to": [
+    {
+      "claim": "Postman serves internal engineering teams, partner organizations, and public API providers.",
+      "source_url": "https://www.postman.com/platform/",
+      "cited_excerpt": "Workspaces Internal Partner Multi-Partner Public",
+      "excerpt_found": true
+    },
+    {
+      "claim": "Postman targets developers and companies that publish public APIs through its Public API Network.",
+      "source_url": "https://www.postman.com/",
+      "cited_excerpt": "Public API Network",
+      "excerpt_found": false
+    }
+  ],
+  "outreach_hook": [
+    {
+      "claim": "Postman's Context Graph provides a structured, queryable map of an organization's APIs and their relationships.",
+      "source_url": "https://www.postman.com/",
+      "cited_excerpt": "The Context Graph gives agents a structured, queryable map of your APIs, collections, and relationships",
+      "excerpt_found": true
+    }
+  ],
+  "company_url": "https://www.postman.com",
+  "incomplete": true,
+  "incomplete_reason": "fetch budget of 4 reached",
+  "tool_calls": 4,
+  "fetched_urls": [
+    "http://www.postman.com",
+    "https://www.postman.com",
+    "https://www.postman.com/platform"
+  ],
+  "system": "agent",
+  "run_summary": {
+    "type": "run_summary",
+    "system": "agent",
+    "company_url": "https://www.postman.com",
+    "outcome": "ok",
+    "steps": 10,
+    "tool_calls": 4,
+    "claims": 5,
+    "incomplete": true,
+    "errors": 2,
+    "tokens_in": 7432,
+    "tokens_out": 1617,
+    "cost_usd": 0.0,
+    "cost_priced": false,
+    "wall_ms": 355369
+  }
+}

@@ -1,0 +1,4 @@
+{"type": "run_start", "system": "baseline_home", "company_url": "https://sanalabs.com", "model": "openai/gpt-oss-120b", "ts": 1793883317.8116639}
+{"type": "step", "step": 1, "action": "fetch_url", "url": "https://sanalabs.com", "final_url": "https://sanalabs.com", "http_status": 200, "chars": 1347, "tokens_in": 0, "tokens_out": 0, "latency_ms": 362, "cost_usd": 0.0, "ok": true, "error": null}
+{"type": "step", "step": 2, "action": "model_call", "url": null, "tokens_in": 959, "tokens_out": 920, "latency_ms": 3233, "cost_usd": 0.0, "cost_priced": false, "stop_reason": "tool_calls", "reasoning": "", "error": null}
+{"type": "run_summary", "system": "baseline_home", "company_url": "https://sanalabs.com", "outcome": "ok", "steps": 2, "tool_calls": 1, "claims": 5, "incomplete": false, "errors": 0, "tokens_in": 959, "tokens_out": 920, "cost_usd": 0.0, "cost_priced": false, "wall_ms": 3597}

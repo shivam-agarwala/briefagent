@@ -1,0 +1,75 @@
+{
+  "company_name": "Snowflake Inc.",
+  "dropped_claims": [],
+  "what_they_sell": [
+    {
+      "claim": "Snowflake provides a fully managed cloud data platform that combines storage, processing, and analytics.",
+      "source_url": "https://www.snowflake.com/en/",
+      "cited_excerpt": "The Snowflake platform is a fully managed service that’s truly easy to use, connected across your entire data estate and trusted by thousands of customers.",
+      "excerpt_found": true
+    },
+    {
+      "claim": "Snowflake offers data‑engineering tools for building reliable, continuous data pipelines.",
+      "source_url": "https://www.snowflake.com/en/",
+      "cited_excerpt": "Data Engineering Build reliable, continuous data pipelines for the enterprise in the language of your choice.",
+      "excerpt_found": true
+    },
+    {
+      "claim": "Snowflake delivers AI services that let customers securely create and deploy large‑language and machine‑learning models.",
+      "source_url": "https://www.snowflake.com/en/",
+      "cited_excerpt": "AI Securely create and deploy LLMs and ML models customized with your data.",
+      "excerpt_found": true
+    }
+  ],
+  "who_they_sell_to": [
+    {
+      "claim": "Snowflake serves large enterprises across technology, manufacturing, healthcare, transportation, financial services, and retail sectors.",
+      "source_url": "https://www.snowflake.com/en/customers/",
+      "cited_excerpt": "Technology … Manufacturing … Healthcare & Life Sciences … Transportation … Financial Services … Retail & Consumer Goods",
+      "excerpt_found": false
+    },
+    {
+      "claim": "Global brands such as Under Armour, Canva, Mitsubishi Electric, Novo Nordisk, Penske, Mercury, and Sophos are Snowflake customers.",
+      "source_url": "https://www.snowflake.com/en/customers/",
+      "cited_excerpt": "Under Armour … Canva … Mitsubishi Electric … Novo Nordisk … Penske … Mercury … Sophos",
+      "excerpt_found": false
+    }
+  ],
+  "outreach_hook": [
+    {
+      "claim": "Snowflake recently partnered with USA Cycling to integrate race video and performance data on its AI Data Cloud.",
+      "source_url": "https://www.snowflake.com/en/",
+      "cited_excerpt": "Snowflake Announces Official AI Data Cloud & Collaboration Partnership with USA Cycling",
+      "excerpt_found": true
+    }
+  ],
+  "company_url": "https://www.snowflake.com",
+  "incomplete": true,
+  "incomplete_reason": "fetch budget of 4 reached",
+  "tool_calls": 4,
+  "fetched_urls": [
+    "https://www.snowflake.com",
+    "https://www.snowflake.com/en",
+    "https://www.snowflake.com/en/customers",
+    "https://www.snowflake.com/en/error-pages/404",
+    "https://www.snowflake.com/en/platform",
+    "https://www.snowflake.com/en/pricing"
+  ],
+  "system": "agent",
+  "run_summary": {
+    "type": "run_summary",
+    "system": "agent",
+    "company_url": "https://www.snowflake.com",
+    "outcome": "ok",
+    "steps": 10,
+    "tool_calls": 4,
+    "claims": 6,
+    "incomplete": true,
+    "errors": 0,
+    "tokens_in": 8334,
+    "tokens_out": 1765,
+    "cost_usd": 0.0,
+    "cost_priced": false,
+    "wall_ms": 238965
+  }
+}

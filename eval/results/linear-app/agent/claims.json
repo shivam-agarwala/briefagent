@@ -1,0 +1,77 @@
+{
+  "company_name": "Linear",
+  "dropped_claims": [],
+  "what_they_sell": [
+    {
+      "claim": "Linear provides a SaaS product development platform that combines issue tracking, roadmaps, and AI‑enabled workflows for teams and agents.",
+      "source_url": "https://linear.app",
+      "cited_excerpt": "The product development system for teams and agents",
+      "excerpt_found": true
+    },
+    {
+      "claim": "The platform supports both human users and AI agents, enabling tasks such as drafting PRDs and pushing PRs.",
+      "source_url": "https://linear.app",
+      "cited_excerpt": "Designed for workflows shared by humans and agents",
+      "excerpt_found": true
+    },
+    {
+      "claim": "Linear emphasizes speed, helping teams ship features quickly by minimizing workflow friction.",
+      "source_url": "https://linear.app",
+      "cited_excerpt": "Reduces noise and restores momentum to help teams ship with high velocity",
+      "excerpt_found": true
+    }
+  ],
+  "who_they_sell_to": [
+    {
+      "claim": "Linear serves enterprise SaaS customers such as Salesforce.",
+      "source_url": "https://linear.app/customers",
+      "cited_excerpt": "Salesforce\nSaaS, Enterprise",
+      "excerpt_found": true
+    },
+    {
+      "claim": "Design and collaboration platform Figma is among Linear’s enterprise users.",
+      "source_url": "https://linear.app/customers",
+      "cited_excerpt": "Figma\nSaaS, Enterprise",
+      "excerpt_found": true
+    },
+    {
+      "claim": "Linear’s user base spans over 50,000 organizations, ranging from startups to Fortune 20 enterprises.",
+      "source_url": "https://linear.app/customers",
+      "cited_excerpt": "Powering more than 50,000 organizations. From ambitious startups to major enterprise and Fortune 20 companies.",
+      "excerpt_found": true
+    }
+  ],
+  "outreach_hook": [
+    {
+      "claim": "OpenAI uses Linear for product development, scaling the tool to 3,000 users.",
+      "source_url": "https://linear.app/customers",
+      "cited_excerpt": "Why OpenAI chose Linear and scaled to 3,000 users",
+      "excerpt_found": true
+    }
+  ],
+  "company_url": "https://linear.app",
+  "incomplete": false,
+  "incomplete_reason": "",
+  "tool_calls": 2,
+  "fetched_urls": [
+    "https://linear.app",
+    "https://linear.app/customers"
+  ],
+  "system": "agent",
+  "run_summary": {
+    "type": "run_summary",
+    "system": "agent",
+    "company_url": "https://linear.app",
+    "outcome": "ok",
+    "steps": 5,
+    "tool_calls": 2,
+    "claims": 7,
+    "incomplete": false,
+    "errors": 0,
+    "tokens_in": 4704,
+    "tokens_out": 1568,
+    "cost_usd": 0.0,
+    "cost_priced": false,
+    "wall_ms": 182593
+  }
+}

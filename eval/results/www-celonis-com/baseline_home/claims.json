@@ -1,0 +1,70 @@
+{
+  "company_name": "Celonis",
+  "dropped_claims": [],
+  "what_they_sell": [
+    {
+      "claim": "Celonis offers the Context Model, an Enterprise AI platform that unifies process data, business knowledge, and intelligence.",
+      "source_url": "https://www.celonis.com",
+      "cited_excerpt": "The Celonis Context Model combines end-to-end process data, business knowledge, and intelligence.",
+      "excerpt_found": true
+    },
+    {
+      "claim": "Celonis provides AI‑driven supply‑chain solutions that boost service levels and cut stockouts.",
+      "source_url": "https://www.celonis.com",
+      "cited_excerpt": "AI-powered supply chain transformation. Improve service levels, reduce stockouts, and improve supplier reliability.",
+      "excerpt_found": false
+    },
+    {
+      "claim": "Celonis delivers enterprise IT modernization tools that help organizations plan and execute strategy with objective enterprise data.",
+      "source_url": "https://www.celonis.com",
+      "cited_excerpt": "Set modernization strategy. Align, plan, and execute your modernization strategy using objective information about the state of your enterprise.",
+      "excerpt_found": false
+    }
+  ],
+  "who_they_sell_to": [
+    {
+      "claim": "Celonis serves a global customer base of more than 1,400 enterprises.",
+      "source_url": "https://www.celonis.com",
+      "cited_excerpt": "More than 1,400 companies around the world use Celonis to analyze, design, and operate AI-driven processes.",
+      "excerpt_found": true
+    },
+    {
+      "claim": "Celonis targets enterprises across supply‑chain, manufacturing, banking, IT, and automotive sectors.",
+      "source_url": "https://www.celonis.com",
+      "cited_excerpt": "Make supply chains work. Make manufacturing work. Make banking work. Make IT work. Make automotive work.",
+      "excerpt_found": true
+    }
+  ],
+  "outreach_hook": [
+    {
+      "claim": "Celonis is used by over 1,400 companies worldwide to analyze, design, and operate AI-driven processes.",
+      "source_url": "https://www.celonis.com",
+      "cited_excerpt": "More than 1,400 companies around the world use Celonis to analyze, design, and operate AI-driven processes.",
+      "excerpt_found": true
+    }
+  ],
+  "company_url": "https://www.celonis.com",
+  "incomplete": false,
+  "incomplete_reason": "",
+  "fetched_urls": [
+    "https://www.celonis.com"
+  ],
+  "tool_calls": 1,
+  "system": "baseline_home",
+  "run_summary": {
+    "type": "run_summary",
+    "system": "baseline_home",
+    "company_url": "https://www.celonis.com",
+    "outcome": "ok",
+    "steps": 2,
+    "tool_calls": 1,
+    "claims": 6,
+    "incomplete": false,
+    "errors": 0,
+    "tokens_in": 1150,
+    "tokens_out": 1367,
+    "cost_usd": 0.0,
+    "cost_priced": false,
+    "wall_ms": 59529
+  }
+}

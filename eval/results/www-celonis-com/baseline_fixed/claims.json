@@ -1,0 +1,79 @@
+{
+  "company_name": "Celonis",
+  "dropped_claims": [],
+  "what_they_sell": [
+    {
+      "claim": "Celonis Platform includes a Data Core that extracts data from any source and queries billions of records at high speed.",
+      "source_url": "https://www.celonis.com/platform",
+      "cited_excerpt": "Data Core lets you extract data from any source and query billions of records at speed, scaling to even the largest enterprise volumes.",
+      "excerpt_found": true
+    },
+    {
+      "claim": "The Celonis Context Model provides a dynamic, real-time digital twin of an entire business.",
+      "source_url": "https://www.celonis.com/platform",
+      "cited_excerpt": "The Context Model creates a dynamic, system-agnostic, real-time representation of your entire business.",
+      "excerpt_found": false
+    },
+    {
+      "claim": "Celonis offers Enterprise AI solutions that give AI operational clarity to reason correctly and act reliably.",
+      "source_url": "https://www.celonis.com",
+      "cited_excerpt": "Empower Enterprise AI with the operational clarity it needs to succeed.",
+      "excerpt_found": true
+    }
+  ],
+  "who_they_sell_to": [
+    {
+      "claim": "Celonis serves automotive companies, helping them decrease time‑to‑market and ensure on‑time delivery.",
+      "source_url": "https://www.celonis.com/solutions",
+      "cited_excerpt": "Automotive Decrease time-to-market, ensure on-time delivery, and provide stellar experiences",
+      "excerpt_found": true
+    },
+    {
+      "claim": "Celonis serves banking firms, enabling faster digital banking experiences and smarter operations.",
+      "source_url": "https://www.celonis.com/solutions",
+      "cited_excerpt": "Banking Provide faster, digital banking experiences, make operations and transactions smarter",
+      "excerpt_found": true
+    },
+    {
+      "claim": "Celonis works with healthcare providers to accelerate patient services and balance supply chain operations.",
+      "source_url": "https://www.celonis.com/solutions",
+      "cited_excerpt": "Healthcare (Providers) See more patients, faster in clinical services, achieve better balance in your supply chain",
+      "excerpt_found": true
+    }
+  ],
+  "outreach_hook": [
+    {
+      "claim": "Over 1,400 enterprises globally use Celonis to analyze, design, and operate AI-driven processes.",
+      "source_url": "https://www.celonis.com",
+      "cited_excerpt": "More than 1,400 companies around the world use Celonis to analyze, design, and operate AI-driven processes.",
+      "excerpt_found": true
+    }
+  ],
+  "company_url": "https://www.celonis.com",
+  "incomplete": false,
+  "incomplete_reason": "",
+  "fetched_urls": [
+    "https://www.celonis.com",
+    "https://www.celonis.com/platform",
+    "https://www.celonis.com/solutions",
+    "https://www.celonis.com/solutions/ai"
+  ],
+  "tool_calls": 4,
+  "system": "baseline_fixed",
+  "run_summary": {
+    "type": "run_summary",
+    "system": "baseline_fixed",
+    "company_url": "https://www.celonis.com",
+    "outcome": "ok",
+    "steps": 5,
+    "tool_calls": 4,
+    "claims": 7,
+    "incomplete": false,
+    "errors": 0,
+    "tokens_in": 2744,
+    "tokens_out": 1629,
+    "cost_usd": 0.0,
+    "cost_priced": false,
+    "wall_ms": 337485
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "company_name": "Snowflake",
+  "dropped_claims": [],
+  "what_they_sell": [
+    {
+      "claim": "Snowflake provides a fully managed data and AI platform that integrates data engineering, analytics, and AI model deployment across clouds.",
+      "source_url": "https://www.snowflake.com/en/product/platform",
+      "cited_excerpt": "The Snowflake platform is a fully managed service that’s truly easy to use, connected across your entire data estate and trusted by thousands of customers.",
+      "excerpt_found": false
+    },
+    {
+      "claim": "Snowflake offers a transactional database service (Snowflake Postgres) that unifies high‑volume transactions with analytics on the same platform.",
+      "source_url": "https://www.snowflake.com/en/product/transactions",
+      "cited_excerpt": "Snowflake Postgres handles this high transaction volume easily.",
+      "excerpt_found": true
+    },
+    {
+      "claim": "Snowflake enables secure creation and deployment of large language models and machine‑learning models customized with a customer’s governed data.",
+      "source_url": "https://www.snowflake.com/en",
+      "cited_excerpt": "Securely create and deploy LLMs and ML models customized with your data.",
+      "excerpt_found": true
+    }
+  ],
+  "who_they_sell_to": [
+    {
+      "claim": "USA Cycling uses Snowflake to combine race video, performance data, and AI‑driven forecasts on a single governed platform.",
+      "source_url": "https://www.snowflake.com/en",
+      "cited_excerpt": "USA Cycling plans to use Snowflake to pair race video with performance data, forecast medal counts and empower athletes and coaches to ask questions in natural language on one governed platform.",
+      "excerpt_found": true
+    },
+    {
+      "claim": "Financial services firm SimCorp relies on Snowflake Postgres for thousands of updates per minute in its core applications.",
+      "source_url": "https://www.snowflake.com/en/product/transactions",
+      "cited_excerpt": "Snowflake Postgres handles this high transaction volume easily.",
+      "excerpt_found": true
+    },
+    {
+      "claim": "MarketWise adopted Snowflake Hybrid Tables to reduce infrastructure complexity and centralize data on one platform.",
+      "source_url": "https://www.snowflake.com/en/product/transactions",
+      "cited_excerpt": "Hybrid Tables just made everything much simpler for us.",
+      "excerpt_found": true
+    }
+  ],
+  "outreach_hook": [
+    {
+      "claim": "Snowflake recently announced an AI Data Cloud partnership with USA Cycling to pair race video with performance data and forecast medals.",
+      "source_url": "https://www.snowflake.com/en",
+      "cited_excerpt": "Snowflake Announces Official AI Data Cloud & Collaboration Partnership with USA Cycling",
+      "excerpt_found": true
+    }
+  ],
+  "company_url": "https://www.snowflake.com",
+  "incomplete": false,
+  "incomplete_reason": "",
+  "fetched_urls": [
+    "https://www.snowflake.com",
+    "https://www.snowflake.com/en",
+    "https://www.snowflake.com/en/product/analytics",
+    "https://www.snowflake.com/en/product/platform",
+    "https://www.snowflake.com/en/product/transactions"
+  ],
+  "tool_calls": 4,
+  "system": "baseline_fixed",
+  "run_summary": {
+    "type": "run_summary",
+    "system": "baseline_fixed",
+    "company_url": "https://www.snowflake.com",
+    "outcome": "ok",
+    "steps": 5,
+    "tool_calls": 4,
+    "claims": 7,
+    "incomplete": false,
+    "errors": 0,
+    "tokens_in": 3254,
+    "tokens_out": 1834,
+    "cost_usd": 0.0,
+    "cost_priced": false,
+    "wall_ms": 60491
+  }
+}

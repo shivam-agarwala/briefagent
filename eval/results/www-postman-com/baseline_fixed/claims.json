@@ -1,0 +1,73 @@
+{
+  "company_name": "Postman",
+  "dropped_claims": [],
+  "what_they_sell": [
+    {
+      "claim": "Postman provides a unified platform for designing, testing, distributing, documenting, and monitoring APIs.",
+      "source_url": "https://www.postman.com/product",
+      "cited_excerpt": "Postman is a unified platform for designing, testing, distributing, documenting, and monitoring APIs.",
+      "excerpt_found": true
+    },
+    {
+      "claim": "Postman offers an AI-native gateway called Fabric that governs policy, identity, and scope for API traffic at the edge.",
+      "source_url": "https://www.postman.com",
+      "cited_excerpt": "Fabric: The AI-native gateway for AI, MCP, and API traffic, governing policy, identity, and scope at the edge.",
+      "excerpt_found": false
+    },
+    {
+      "claim": "Postman lets users spin up mock servers to simulate APIs before they exist.",
+      "source_url": "https://www.postman.com",
+      "cited_excerpt": "api-mocking Spin up a mock server before the API exists",
+      "excerpt_found": true
+    }
+  ],
+  "who_they_sell_to": [
+    {
+      "claim": "Postman provides a free plan for individual developers to build and test APIs.",
+      "source_url": "https://www.postman.com/pricing",
+      "cited_excerpt": "Free For individuals building and testing APIs",
+      "excerpt_found": true
+    },
+    {
+      "claim": "Postman's Enterprise plan targets organizations that need to build, manage, and distribute APIs at scale.",
+      "source_url": "https://www.postman.com/pricing",
+      "cited_excerpt": "Enterprise For organizations building, managing, and distributing APIs at scale",
+      "excerpt_found": true
+    }
+  ],
+  "outreach_hook": [
+    {
+      "claim": "Postman's free plan includes 100 AI credits each month.",
+      "source_url": "https://www.postman.com/pricing",
+      "cited_excerpt": "100 AI credits",
+      "excerpt_found": true
+    }
+  ],
+  "company_url": "https://www.postman.com",
+  "incomplete": false,
+  "incomplete_reason": "",
+  "fetched_urls": [
+    "https://www.postman.com",
+    "https://www.postman.com/company/about-postman",
+    "https://www.postman.com/pricing",
+    "https://www.postman.com/product"
+  ],
+  "tool_calls": 4,
+  "system": "baseline_fixed",
+  "run_summary": {
+    "type": "run_summary",
+    "system": "baseline_fixed",
+    "company_url": "https://www.postman.com",
+    "outcome": "ok",
+    "steps": 5,
+    "tool_calls": 4,
+    "claims": 6,
+    "incomplete": false,
+    "errors": 0,
+    "tokens_in": 2914,
+    "tokens_out": 1361,
+    "cost_usd": 0.0,
+    "cost_priced": false,
+    "wall_ms": 60111
+  }
+}

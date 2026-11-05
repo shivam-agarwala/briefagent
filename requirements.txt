@@ -1,0 +1,9 @@
+# Core
+httpx>=0.27
+beautifulsoup4>=4.12
+pytest>=8.0
+
+# Providers. Install the one you are using. Both are listed so CI can import
+# and test the translation layer for each without an API key.
+anthropic>=0.40
+google-genai>=1.0

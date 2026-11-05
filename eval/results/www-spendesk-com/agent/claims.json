@@ -1,0 +1,77 @@
+{
+  "company_name": "Spendesk",
+  "dropped_claims": [],
+  "what_they_sell": [
+    {
+      "claim": "Spendesk offers corporate payment cards that give teams flexibility and finance control.",
+      "source_url": "https://www.spendesk.com/fr/solutions/",
+      "cited_excerpt": "Cartes de paiements",
+      "excerpt_found": true
+    },
+    {
+      "claim": "Its expense‑reporting tool captures 98 % of receipts automatically, without any reminders.",
+      "source_url": "https://www.spendesk.com/fr/",
+      "cited_excerpt": "98 % des reçus collectés, sans la moindre relance",
+      "excerpt_found": true
+    },
+    {
+      "claim": "Spendesk AI Connect lets finance teams query spend data and generate reports via an AI assistant.",
+      "source_url": "https://www.spendesk.com/fr/",
+      "cited_excerpt": "Nouveau: Spendesk AI Connect – la façon la plus rapide d’exploiter toutes les données liées à vos dépenses",
+      "excerpt_found": false
+    }
+  ],
+  "who_they_sell_to": [
+    {
+      "claim": "The platform is used by more than 3,000 finance leaders across the continent.",
+      "source_url": "https://www.spendesk.com/fr/",
+      "cited_excerpt": "Déjà adoptée par plus de 3 000 responsables financiers à travers le continent.",
+      "excerpt_found": true
+    },
+    {
+      "claim": "Over 5,000 finance teams have adopted Spendesk.",
+      "source_url": "https://www.spendesk.com/fr/solutions/",
+      "cited_excerpt": "Adoré par + de 5 000 équipes finance",
+      "excerpt_found": true
+    },
+    {
+      "claim": "Spendesk serves procurement, finance & accounting, managers and employees within enterprises.",
+      "source_url": "https://www.spendesk.com/fr/solutions/",
+      "cited_excerpt": "Procurement, Finance & comptabilité, Managers, Employés",
+      "excerpt_found": false
+    }
+  ],
+  "outreach_hook": [
+    {
+      "claim": "Spendesk is already used by over 3,000 finance leaders across Europe.",
+      "source_url": "https://www.spendesk.com/fr/",
+      "cited_excerpt": "Déjà adoptée par plus de 3 000 responsables financiers à travers le continent.",
+      "excerpt_found": true
+    }
+  ],
+  "company_url": "https://www.spendesk.com/fr/",
+  "incomplete": false,
+  "incomplete_reason": "",
+  "tool_calls": 3,
+  "fetched_urls": [
+    "https://www.spendesk.com/fr",
+    "https://www.spendesk.com/fr/solutions"
+  ],
+  "system": "agent",
+  "run_summary": {
+    "type": "run_summary",
+    "system": "agent",
+    "company_url": "https://www.spendesk.com/fr/",
+    "outcome": "ok",
+    "steps": 7,
+    "tool_calls": 3,
+    "claims": 7,
+    "incomplete": false,
+    "errors": 0,
+    "tokens_in": 7456,
+    "tokens_out": 2238,
+    "cost_usd": 0.0,
+    "cost_priced": false,
+    "wall_ms": 242679
+  }
+}

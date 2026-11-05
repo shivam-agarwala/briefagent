@@ -1,0 +1,38 @@
+# Eval sample: 10 B2B SaaS companies.
+#
+# Chosen on evidence, not guesswork. Each URL was fetched with the real
+# fetch_url before being added here, and selected to spread the variable that
+# actually matters: how much usable text the homepage yields after cleaning.
+# A sample of ten text-rich marketing sites would make every system look good
+# and tell you nothing.
+#
+# Measured homepage text after cleaning (6000 char cap):
+#   sanalabs      1347   ultra thin single page app, the hardest case
+#   retool        2872   thin, developer tools
+#   postman       3109   thin, mid size
+#   sastrify      3939   mid size, German company, English site
+#   zluri         4865   mid size, Indian company
+#   ramp          5191   fintech, heavy JS marketing site
+#   linear        6000+  capped, app first
+#   spendesk      6000+  capped, French language content
+#   snowflake     6000+  capped, enterprise mega site, redirects to /en/
+#   celonis       6000+  capped, enterprise, process mining
+#
+# Known bot-blocked and deliberately excluded. Every system returns an empty
+# brief on these, which produces a concordant pair that carries no information
+# and wastes one of only ten slots:
+#   servicenow.com   403
+#   freshworks.com   403
+#   personio.de      429
+#   sap.com          robots.txt disallow
+
+https://sanalabs.com
+https://retool.com
+https://www.postman.com
+https://www.sastrify.com
+https://www.zluri.com
+https://ramp.com
+https://linear.app
+https://www.spendesk.com/fr/
+https://www.snowflake.com
+https://www.celonis.com

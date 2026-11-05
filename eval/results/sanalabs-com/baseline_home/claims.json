@@ -1,0 +1,64 @@
+{
+  "company_name": "Sana",
+  "dropped_claims": [],
+  "what_they_sell": [
+    {
+      "claim": "Sana offers an AI-native learning platform that combines LMS, LXP, authoring, and virtual classroom capabilities.",
+      "source_url": "https://sanalabs.com",
+      "cited_excerpt": "The best of an LMS, LXP, authoring tool, and virtual classroom in one AI-native learning platform.",
+      "excerpt_found": true
+    },
+    {
+      "claim": "Sana provides an enterprise AI platform that integrates AI into company applications, knowledge bases, and workflows.",
+      "source_url": "https://sanalabs.com",
+      "cited_excerpt": "Your enterprise AI platform for real work. A seamless, beautiful way to bring AI into your company’s apps, knowledge, and culture.",
+      "excerpt_found": true
+    }
+  ],
+  "who_they_sell_to": [
+    {
+      "claim": "Sana targets enterprise customers seeking AI-driven productivity solutions.",
+      "source_url": "https://sanalabs.com",
+      "cited_excerpt": "Your enterprise AI platform for real work.",
+      "excerpt_found": true
+    },
+    {
+      "claim": "Companies such as Spotify use Sana for AI-powered learning and workflow automation.",
+      "source_url": "https://sanalabs.com",
+      "cited_excerpt": "“If we're going to move to the level of AI fluency that we want, then Sana is the key.” – Associate Director of Learning and Development, Spotify",
+      "excerpt_found": false
+    }
+  ],
+  "outreach_hook": [
+    {
+      "claim": "Spotify’s Associate Director of Learning and Development calls Sana the key to achieving AI fluency.",
+      "source_url": "https://sanalabs.com",
+      "cited_excerpt": "“If we're going to move to the level of AI fluency that we want, then Sana is the key.” – Associate Director of Learning and Development, Spotify",
+      "excerpt_found": false
+    }
+  ],
+  "company_url": "https://sanalabs.com",
+  "incomplete": false,
+  "incomplete_reason": "",
+  "fetched_urls": [
+    "https://sanalabs.com"
+  ],
+  "tool_calls": 1,
+  "system": "baseline_home",
+  "run_summary": {
+    "type": "run_summary",
+    "system": "baseline_home",
+    "company_url": "https://sanalabs.com",
+    "outcome": "ok",
+    "steps": 2,
+    "tool_calls": 1,
+    "claims": 5,
+    "incomplete": false,
+    "errors": 0,
+    "tokens_in": 959,
+    "tokens_out": 920,
+    "cost_usd": 0.0,
+    "cost_priced": false,
+    "wall_ms": 3597
+  }
+}

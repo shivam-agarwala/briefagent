@@ -1,0 +1,77 @@
+{
+  "company_name": "Ramp",
+  "dropped_claims": [],
+  "what_they_sell": [
+    {
+      "claim": "Ramp provides spend management, corporate cards, and accounts payable solutions.",
+      "source_url": "https://ramp.com",
+      "cited_excerpt": "Spend Management, Corporate Cards & Accounts Payable Solutions",
+      "excerpt_found": true
+    },
+    {
+      "claim": "Its platform includes AI‑driven cards, expense tracking, bill payment, and banking features.",
+      "source_url": "https://ramp.com",
+      "cited_excerpt": "Cards, expenses, bill payments, and banking – in the blink of AI.",
+      "excerpt_found": false
+    },
+    {
+      "claim": "Ramp integrates with more than 200 existing finance and ERP tools.",
+      "source_url": "https://ramp.com",
+      "cited_excerpt": "200+ Integrations to the tools you already use",
+      "excerpt_found": true
+    }
+  ],
+  "who_they_sell_to": [
+    {
+      "claim": "Ramp serves over 85,000 finance teams at ambitious companies.",
+      "source_url": "https://ramp.com/about-us",
+      "cited_excerpt": "85,000+ Ramp customers",
+      "excerpt_found": true
+    },
+    {
+      "claim": "Its customers include fast‑growing enterprises seeking faster growth.",
+      "source_url": "https://ramp.com",
+      "cited_excerpt": "Join 85,000 of the world’s most ambitious companies",
+      "excerpt_found": true
+    },
+    {
+      "claim": "Ramp’s services are available to customers in more than 200 countries.",
+      "source_url": "https://ramp.com/about-us",
+      "cited_excerpt": "200+ Countries supported",
+      "excerpt_found": true
+    }
+  ],
+  "outreach_hook": [
+    {
+      "claim": "Ramp’s platform has helped customers save over $12 billion in spend.",
+      "source_url": "https://ramp.com/about-us",
+      "cited_excerpt": "$12B+ Saved for customers",
+      "excerpt_found": true
+    }
+  ],
+  "company_url": "https://ramp.com",
+  "incomplete": true,
+  "incomplete_reason": "fetch budget of 4 reached",
+  "tool_calls": 4,
+  "fetched_urls": [
+    "https://ramp.com",
+    "https://ramp.com/about-us"
+  ],
+  "system": "agent",
+  "run_summary": {
+    "type": "run_summary",
+    "system": "agent",
+    "company_url": "https://ramp.com",
+    "outcome": "ok",
+    "steps": 10,
+    "tool_calls": 4,
+    "claims": 7,
+    "incomplete": true,
+    "errors": 2,
+    "tokens_in": 7856,
+    "tokens_out": 1549,
+    "cost_usd": 0.0,
+    "cost_priced": false,
+    "wall_ms": 238796
+  }
+}

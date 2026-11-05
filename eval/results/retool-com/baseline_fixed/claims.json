@@ -1,0 +1,79 @@
+{
+  "company_name": "Retool",
+  "dropped_claims": [],
+  "what_they_sell": [
+    {
+      "claim": "Retool offers a low‑code app builder that creates production‑ready internal applications with built‑in enterprise security and governance.",
+      "source_url": "https://retool.com",
+      "cited_excerpt": "Describe what you want and get a full, production-ready app with enterprise security and governance built in.",
+      "excerpt_found": true
+    },
+    {
+      "claim": "Retool apps connect directly to production data sources using existing permissions, eliminating extra configuration.",
+      "source_url": "https://retool.com",
+      "cited_excerpt": "Every app you build connects directly to your production data sources.",
+      "excerpt_found": true
+    },
+    {
+      "claim": "Retool provides deployment with authentication, granular access controls, and audit logging out of the box.",
+      "source_url": "https://retool.com",
+      "cited_excerpt": "Deploy with auth, access controls, and audit logging already in place.",
+      "excerpt_found": true
+    }
+  ],
+  "who_they_sell_to": [
+    {
+      "claim": "Retool serves organizations ranging from startups to Fortune 500 enterprises.",
+      "source_url": "https://retool.com/customers",
+      "cited_excerpt": "From startups to Fortune 500s, the world's most effective teams use Retool",
+      "excerpt_found": true
+    },
+    {
+      "claim": "Manufacturers and logistics firms adopt Retool to modernize warehouse and supply‑chain operations.",
+      "source_url": "https://retool.com",
+      "cited_excerpt": "The leading manufacturers and logistics companies use Retool",
+      "excerpt_found": true
+    },
+    {
+      "claim": "Banks and fintech companies use Retool to build compliant internal tools.",
+      "source_url": "https://retool.com",
+      "cited_excerpt": "The leading banks and fintech companies use Retool",
+      "excerpt_found": true
+    }
+  ],
+  "outreach_hook": [
+    {
+      "claim": "Ramp reduced operational costs by $8 million and saved over 20,000 hours using Retool.",
+      "source_url": "https://retool.com",
+      "cited_excerpt": "Ramp saved $8M and 20,000+ hours",
+      "excerpt_found": true
+    }
+  ],
+  "company_url": "https://retool.com",
+  "incomplete": false,
+  "incomplete_reason": "",
+  "fetched_urls": [
+    "https://retool.com",
+    "https://retool.com/about",
+    "https://retool.com/customers",
+    "https://retool.com/pricing"
+  ],
+  "tool_calls": 4,
+  "system": "baseline_fixed",
+  "run_summary": {
+    "type": "run_summary",
+    "system": "baseline_fixed",
+    "company_url": "https://retool.com",
+    "outcome": "ok",
+    "steps": 5,
+    "tool_calls": 4,
+    "claims": 7,
+    "incomplete": false,
+    "errors": 0,
+    "tokens_in": 2915,
+    "tokens_out": 1422,
+    "cost_usd": 0.0,
+    "cost_priced": false,
+    "wall_ms": 60929
+  }
+}

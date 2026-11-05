@@ -1,0 +1,44 @@
+==============================================================================
+AUTOMATIC METRICS (no hand labelling, computed from the run itself)
+==============================================================================
+
+Citation verification: does the quoted text actually appear on the
+page the claim cites? Fabricated citations: claims pointing at a page
+the system never fetched, which the validator removed.
+
+system           citations verified   fabricated cites   sources/brief  claims/brief
+agent            69.4% (43/62) [54-83%] 0.0% (0/62)        2.0            6.2
+baseline_fixed   81.2% (52/64) [68-93%] 0.0% (0/64)        3.3            6.4
+baseline_home    84.4% (54/64) [73-94%] 0.0% (0/64)        1.0            6.4
+
+system           briefs complete  briefs with 0 claims crashed
+agent            100.0% (10/10)   0.0% (0/10)      0
+baseline_fixed   100.0% (10/10)   0.0% (0/10)      0
+baseline_home    100.0% (10/10)   0.0% (0/10)      0
+
+agent vs baseline_fixed, citation verification: -11.9 points
+  95% bootstrap CI (clustered by company): [-22.7, -1.0]
+
+agent vs baseline_home, citation verification: -15.0 points
+  95% bootstrap CI (clustered by company): [-35.7, +3.2]
+  Interval contains zero: no difference established.
+
+==============================================================================
+COST AND EFFORT PER COMPANY (averages)
+==============================================================================
+system             steps  fetches    tok in   tok out   latency       cost
+agent                8.1      3.3      6888      1758    222.8s   $0.0000
+baseline_fixed       5.0      4.0      2909      1555     88.7s   $0.0000
+baseline_home        2.0      1.0      1228      1235     54.8s   $0.0000
+
+note: cost reads 0 because prices were unset during the run, which is accurate on a free tier.
+
+==============================================================================
+HAND LABELLED SUPPORT RATE
+==============================================================================
+Not available: no rows in claims.csv have a 1 or 0 in `supported`.
+
+The metrics above are complete and reportable on their own. They
+measure grounding, meaning whether a claim's citation checks out.
+They do not measure whether the claim is TRUE and useful, which
+needs a human. Label claims.csv and re-run to add that.

@@ -1,0 +1,67 @@
+{
+  "company_name": "Sana",
+  "dropped_claims": [],
+  "what_they_sell": [
+    {
+      "claim": "Sana Learn combines a learning management system, learning experience platform, authoring tool, and virtual classroom into a single AI-native platform.",
+      "source_url": "https://sanalabs.com",
+      "cited_excerpt": "The best of an LMS, LXP, authoring tool, and virtual classroom in one AI-native learning platform.",
+      "excerpt_found": true
+    },
+    {
+      "claim": "Sana’s enterprise AI agents can generate documents, analyses, dashboards, and automate tasks across a company’s applications.",
+      "source_url": "https://sanalabs.com",
+      "cited_excerpt": "Generate docs, analyses, and dashboards",
+      "excerpt_found": true
+    }
+  ],
+  "who_they_sell_to": [
+    {
+      "claim": "Sana provides AI support assistants that help customer support teams triage tickets and save up to five hours of manual work per week per lead.",
+      "source_url": "https://sanalabs.com/products/sana/solutions/teams/customer-support",
+      "cited_excerpt": "saving each lead up to 5 hours of manual work per week",
+      "excerpt_found": true
+    },
+    {
+      "claim": "Sana targets large enterprises requiring SOC 2, ISO 27001, GDPR compliance, SAML‑based SSO and custom integrations.",
+      "source_url": "https://sanalabs.com/products/sana/pricing",
+      "cited_excerpt": "ISO 27001 certified and GDPR compliant. Data encrypted at rest with AES 256 and in transit with TLS 1.2+.",
+      "excerpt_found": true
+    }
+  ],
+  "outreach_hook": [
+    {
+      "claim": "Sana has been acquired by Workday, integrating its AI platform with Workday’s enterprise ecosystem.",
+      "source_url": "https://sanalabs.com",
+      "cited_excerpt": "Sana is now part of Workday.",
+      "excerpt_found": true
+    }
+  ],
+  "company_url": "https://sanalabs.com",
+  "incomplete": false,
+  "incomplete_reason": "",
+  "fetched_urls": [
+    "https://sanalabs.com",
+    "https://sanalabs.com/products/sana-learn/pricing",
+    "https://sanalabs.com/products/sana/pricing",
+    "https://sanalabs.com/products/sana/solutions/teams/customer-support"
+  ],
+  "tool_calls": 4,
+  "system": "baseline_fixed",
+  "run_summary": {
+    "type": "run_summary",
+    "system": "baseline_fixed",
+    "company_url": "https://sanalabs.com",
+    "outcome": "ok",
+    "steps": 5,
+    "tool_calls": 4,
+    "claims": 5,
+    "incomplete": false,
+    "errors": 0,
+    "tokens_in": 2865,
+    "tokens_out": 1323,
+    "cost_usd": 0.0,
+    "cost_priced": false,
+    "wall_ms": 61392
+  }
+}

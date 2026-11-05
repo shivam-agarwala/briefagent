@@ -1,0 +1,70 @@
+{
+  "company_name": "Sastrify",
+  "dropped_claims": [],
+  "what_they_sell": [
+    {
+      "claim": "Sastrify offers an AI‑powered platform that automatically discovers all software tools and maps ownership, usage, renewals, and spend.",
+      "source_url": "https://www.sastrify.com",
+      "cited_excerpt": "Sastrify connects to your systems (IDP, Browser, ERP) and automatically discovers every software tool in use. Then it maps ownership, usage, renewals, and spend",
+      "excerpt_found": true
+    },
+    {
+      "claim": "The platform automates renewal alerts, approvals, and vendor tracking to prevent missed renewals.",
+      "source_url": "https://www.sastrify.com",
+      "cited_excerpt": "Sastrify automates renewal alerts, approvals, and vendor tracking so your IT and Procurement teams can stay proactive without manual effort.",
+      "excerpt_found": true
+    },
+    {
+      "claim": "It benchmarks software contracts against thousands of data points and uses AI to suggest fair pricing and negotiation levers.",
+      "source_url": "https://www.sastrify.com",
+      "cited_excerpt": "Sastrify benchmarks every software contract against thousands of live data points. Our AI suggests fair pricing, renewal timing, and negotiation levers",
+      "excerpt_found": true
+    }
+  ],
+  "who_they_sell_to": [
+    {
+      "claim": "Sastrify targets IT, procurement, and finance teams within organizations.",
+      "source_url": "https://www.sastrify.com",
+      "cited_excerpt": "Sastrify empowers IT, Procurement, and Finance teams with full visibility, automated tracking, and guaranteed ROI",
+      "excerpt_found": true
+    },
+    {
+      "claim": "It helps companies eliminate shadow IT and enforce software compliance.",
+      "source_url": "https://www.sastrify.com",
+      "cited_excerpt": "Eliminate Shadow IT, enforce compliance, and unlock AI-powered monitoring across your software landscape fast.",
+      "excerpt_found": true
+    }
+  ],
+  "outreach_hook": [
+    {
+      "claim": "Sastrify brings 90% of a company's software vendors and spend under management within seven days.",
+      "source_url": "https://www.sastrify.com",
+      "cited_excerpt": "90% of vendors and spend under management within 7 days.",
+      "excerpt_found": true
+    }
+  ],
+  "company_url": "https://www.sastrify.com",
+  "incomplete": false,
+  "incomplete_reason": "",
+  "fetched_urls": [
+    "https://www.sastrify.com"
+  ],
+  "tool_calls": 1,
+  "system": "baseline_home",
+  "run_summary": {
+    "type": "run_summary",
+    "system": "baseline_home",
+    "company_url": "https://www.sastrify.com",
+    "outcome": "ok",
+    "steps": 2,
+    "tool_calls": 1,
+    "claims": 6,
+    "incomplete": false,
+    "errors": 0,
+    "tokens_in": 1178,
+    "tokens_out": 1211,
+    "cost_usd": 0.0,
+    "cost_priced": false,
+    "wall_ms": 61343
+  }
+}

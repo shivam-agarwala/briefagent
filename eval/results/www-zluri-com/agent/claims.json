@@ -1,0 +1,78 @@
+{
+  "company_name": "Zluri",
+  "dropped_claims": [],
+  "what_they_sell": [
+    {
+      "claim": "Zluri offers a Next‑Gen Identity Governance and Administration platform.",
+      "source_url": "https://www.zluri.com",
+      "cited_excerpt": "Zluri | Next-Gen Identity Governance and Administration",
+      "excerpt_found": true
+    },
+    {
+      "claim": "Zluri’s IRIS layer provides real‑time identity intelligence that connects, analyzes, and contextualizes every identity signal.",
+      "source_url": "https://www.zluri.com",
+      "cited_excerpt": "IRIS is the architectural foundation of the Zluri platform — a real‑time identity intelligence system that connects, analyzes, and contextualizes every identity signal.",
+      "excerpt_found": false
+    },
+    {
+      "claim": "Zluri’s platform includes modules for Access Requests, Access Management, Access Reviews, Segregation of Duties, and SaaS management.",
+      "source_url": "https://www.zluri.com/case-studies",
+      "cited_excerpt": "Access Requests Access Management Access Reviews Segregation of Duties Identity Security Posture Management SaaS management",
+      "excerpt_found": true
+    }
+  ],
+  "who_they_sell_to": [
+    {
+      "claim": "Zluri targets fast‑growing organizations that need enterprise‑wide identity visibility and security.",
+      "source_url": "https://www.zluri.com/case-studies",
+      "cited_excerpt": "Learn how fast-growing organizations strengthen security with complete visibility into identities and applications",
+      "excerpt_found": true
+    },
+    {
+      "claim": "Zluri sells to senior IT engineers and security teams at technology firms such as Tripledot.",
+      "source_url": "https://www.zluri.com/case-studies",
+      "cited_excerpt": "“Zluri’s automation capabilities have significantly reduced the time spent on provisioning and deprovisioning, saving 6 hours each week…\" – Dmitry Tabolich, Senior IT Engineer at Tripledot",
+      "excerpt_found": false
+    },
+    {
+      "claim": "Zluri serves IT and security managers at companies like Pano AI.",
+      "source_url": "https://www.zluri.com/case-studies",
+      "cited_excerpt": "“Zluri has revolutionised how we manage access reviews…\" – Sejal Chadha, IT and Security Manager at Pano AI",
+      "excerpt_found": false
+    }
+  ],
+  "outreach_hook": [
+    {
+      "claim": "Zluri recently announced joining Infotech.",
+      "source_url": "https://www.zluri.com",
+      "cited_excerpt": "Zluri joins Infotech. Read the announcement →",
+      "excerpt_found": true
+    }
+  ],
+  "company_url": "https://www.zluri.com",
+  "incomplete": false,
+  "incomplete_reason": "",
+  "tool_calls": 3,
+  "fetched_urls": [
+    "https://www.zluri.com",
+    "https://www.zluri.com/case-studies",
+    "https://www.zluri.com/customers"
+  ],
+  "system": "agent",
+  "run_summary": {
+    "type": "run_summary",
+    "system": "agent",
+    "company_url": "https://www.zluri.com",
+    "outcome": "ok",
+    "steps": 7,
+    "tool_calls": 3,
+    "claims": 7,
+    "incomplete": false,
+    "errors": 1,
+    "tokens_in": 5995,
+    "tokens_out": 1940,
+    "cost_usd": 0.0,
+    "cost_priced": false,
+    "wall_ms": 181970
+  }
+}

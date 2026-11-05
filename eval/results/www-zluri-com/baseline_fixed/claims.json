@@ -1,0 +1,79 @@
+{
+  "company_name": "Zluri",
+  "dropped_claims": [],
+  "what_they_sell": [
+    {
+      "claim": "Zluri provides an Identity Visibility and Intelligence platform delivering continuous visibility across human and non‑human identities.",
+      "source_url": "https://www.zluri.com",
+      "cited_excerpt": "Continuous visibility across human and non-human identities",
+      "excerpt_found": true
+    },
+    {
+      "claim": "Zluri offers self‑service Access Requests that can be submitted and approved directly within Slack.",
+      "source_url": "https://www.zluri.com/solutions/access-requests",
+      "cited_excerpt": "Access Requests on Slack",
+      "excerpt_found": false
+    },
+    {
+      "claim": "Zluri automates SaaS access reviews, such as for Asana, delivering up to a ten‑fold speed increase.",
+      "source_url": "https://www.zluri.com/product-tours",
+      "cited_excerpt": "Automate Asana user access reviews with Zluri, speeding them up by 10x.",
+      "excerpt_found": true
+    }
+  ],
+  "who_they_sell_to": [
+    {
+      "claim": "Zluri targets fast‑growing enterprises that need full visibility into identities and applications.",
+      "source_url": "https://www.zluri.com/case-studies",
+      "cited_excerpt": "fast‑growing organizations strengthen security with complete visibility into identities and applications",
+      "excerpt_found": false
+    },
+    {
+      "claim": "Zluri sells to IT teams looking to eliminate manual ticket handling and reduce workload.",
+      "source_url": "https://www.zluri.com/solutions/access-requests",
+      "cited_excerpt": "No more chasing tickets! Eliminate manual workload",
+      "excerpt_found": true
+    },
+    {
+      "claim": "Zluri serves Security and GRC teams that need policy‑driven controls to prevent over‑permissive access.",
+      "source_url": "https://www.zluri.com/solutions/access-requests",
+      "cited_excerpt": "No more over‑permissive access! Enforce compliance with a policy‑based engine",
+      "excerpt_found": false
+    }
+  ],
+  "outreach_hook": [
+    {
+      "claim": "Zluri’s automation saved a client 6 hours per week and boosted IT productivity by 40%.",
+      "source_url": "https://www.zluri.com/case-studies",
+      "cited_excerpt": "saving 6 hours each week and improving IT productivity by 40%",
+      "excerpt_found": true
+    }
+  ],
+  "company_url": "https://www.zluri.com",
+  "incomplete": false,
+  "incomplete_reason": "",
+  "fetched_urls": [
+    "https://www.zluri.com",
+    "https://www.zluri.com/case-studies",
+    "https://www.zluri.com/product-tours",
+    "https://www.zluri.com/solutions/access-requests"
+  ],
+  "tool_calls": 4,
+  "system": "baseline_fixed",
+  "run_summary": {
+    "type": "run_summary",
+    "system": "baseline_fixed",
+    "company_url": "https://www.zluri.com",
+    "outcome": "ok",
+    "steps": 5,
+    "tool_calls": 4,
+    "claims": 7,
+    "incomplete": false,
+    "errors": 0,
+    "tokens_in": 2769,
+    "tokens_out": 1869,
+    "cost_usd": 0.0,
+    "cost_priced": false,
+    "wall_ms": 61208
+  }
+}

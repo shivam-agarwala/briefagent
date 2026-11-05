@@ -1,0 +1,67 @@
+{
+  "company_name": "Spendesk",
+  "dropped_claims": [],
+  "what_they_sell": [
+    {
+      "claim": "Spendesk provides a spend management platform covering procurement, corporate cards, invoice processing, expense reimbursement, budget tracking, spend analysis and automated accounting.",
+      "source_url": "https://www.spendesk.com/fr/about",
+      "cited_excerpt": "Procurement Cartes de paiement Traitement des factures Remboursement des frais Suivi des budgets Analyse des dépenses Automatisation comptable.",
+      "excerpt_found": false
+    },
+    {
+      "claim": "Its Foundations package includes unlimited physical cards, receipt OCR extraction, and real‑time budget monitoring.",
+      "source_url": "https://www.spendesk.com/fr/pricing",
+      "cited_excerpt": "Émettre des cartes physiques illimitées … Extraire automatiquement les données du reçu avec OCR … Surveiller les budgets en temps réel.",
+      "excerpt_found": false
+    }
+  ],
+  "who_they_sell_to": [
+    {
+      "claim": "Over 5,000 enterprises trust Spendesk.",
+      "source_url": "https://www.spendesk.com/fr/customers",
+      "cited_excerpt": "Plus de 5000 entreprises nous font confiance",
+      "excerpt_found": true
+    },
+    {
+      "claim": "More than 3,000 finance directors across Europe have adopted Spendesk.",
+      "source_url": "https://www.spendesk.com/fr",
+      "cited_excerpt": "Déjà adoptée par plus de 3 000 responsables financiers à travers le continent.",
+      "excerpt_found": true
+    }
+  ],
+  "outreach_hook": [
+    {
+      "claim": "Spendesk AI Connect lets finance teams query data and generate reports through any AI assistant.",
+      "source_url": "https://www.spendesk.com/fr",
+      "cited_excerpt": "Nouveau: Spendesk AI Connect … Posez vos questions, créez vos rapports et automatisez vos workflows depuis l’assistant IA de votre choix.",
+      "excerpt_found": false
+    }
+  ],
+  "company_url": "https://www.spendesk.com/fr/",
+  "incomplete": false,
+  "incomplete_reason": "",
+  "fetched_urls": [
+    "https://www.spendesk.com/fr",
+    "https://www.spendesk.com/fr/about",
+    "https://www.spendesk.com/fr/customers",
+    "https://www.spendesk.com/fr/pricing"
+  ],
+  "tool_calls": 4,
+  "system": "baseline_fixed",
+  "run_summary": {
+    "type": "run_summary",
+    "system": "baseline_fixed",
+    "company_url": "https://www.spendesk.com/fr/",
+    "outcome": "ok",
+    "steps": 5,
+    "tool_calls": 4,
+    "claims": 5,
+    "incomplete": false,
+    "errors": 0,
+    "tokens_in": 3033,
+    "tokens_out": 1364,
+    "cost_usd": 0.0,
+    "cost_priced": false,
+    "wall_ms": 61940
+  }
+}

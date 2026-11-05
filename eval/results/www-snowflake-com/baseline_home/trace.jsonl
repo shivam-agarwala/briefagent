@@ -1,0 +1,4 @@
+{"type": "run_start", "system": "baseline_home", "company_url": "https://www.snowflake.com", "model": "openai/gpt-oss-120b", "ts": 1793886889.665685}
+{"type": "step", "step": 1, "action": "fetch_url", "url": "https://www.snowflake.com", "final_url": "https://www.snowflake.com/en/", "http_status": 200, "chars": 2532, "tokens_in": 0, "tokens_out": 0, "latency_ms": 3068, "cost_usd": 0.0, "ok": true, "error": null}
+{"type": "step", "step": 2, "action": "model_call", "url": null, "tokens_in": 1724, "tokens_out": 1931, "latency_ms": 59406, "cost_usd": 0.0, "cost_priced": false, "stop_reason": "tool_calls", "reasoning": "", "error": null}
+{"type": "run_summary", "system": "baseline_home", "company_url": "https://www.snowflake.com", "outcome": "ok", "steps": 2, "tool_calls": 1, "claims": 7, "incomplete": false, "errors": 0, "tokens_in": 1724, "tokens_out": 1931, "cost_usd": 0.0, "cost_priced": false, "wall_ms": 62476}

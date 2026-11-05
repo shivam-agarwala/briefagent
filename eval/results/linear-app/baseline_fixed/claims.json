@@ -1,0 +1,73 @@
+{
+  "company_name": "Linear",
+  "dropped_claims": [],
+  "what_they_sell": [
+    {
+      "claim": "Linear offers a product development system purpose-built for planning and building products in the AI era.",
+      "source_url": "https://linear.app",
+      "cited_excerpt": "Purpose-built for planning and building products. Designed for the AI era.",
+      "excerpt_found": true
+    },
+    {
+      "claim": "Linear provides AI‑powered agent workflows that let humans and agents draft PRDs and push pull requests together.",
+      "source_url": "https://linear.app",
+      "cited_excerpt": "Designed for workflows shared by humans and agents. From drafting PRDs to pushing PRs.",
+      "excerpt_found": true
+    },
+    {
+      "claim": "Linear includes an agent platform that enables AI‑driven task automation and integrations.",
+      "source_url": "https://linear.app/pricing",
+      "cited_excerpt": "AI and agent workflows\nAgent platform\nIncluded",
+      "excerpt_found": true
+    }
+  ],
+  "who_they_sell_to": [
+    {
+      "claim": "Linear serves over 50,000 companies, including tech firms such as OpenAI, Coinbase, and Ramp.",
+      "source_url": "https://linear.app/about",
+      "cited_excerpt": "more than 50,000 companies (including OpenAI, Coinbase, and Ramp) to plan, build, and ship their products.",
+      "excerpt_found": true
+    },
+    {
+      "claim": "Linear is used by large engineering organizations like OpenAI, which employs about 5,300 people.",
+      "source_url": "https://linear.app/customers/openai",
+      "cited_excerpt": "Company size\n5,300",
+      "excerpt_found": true
+    }
+  ],
+  "outreach_hook": [
+    {
+      "claim": "OpenAI scaled Linear to over 3,000 users across the organization.",
+      "source_url": "https://linear.app/customers/openai",
+      "cited_excerpt": "over 3,000 people across the organization",
+      "excerpt_found": true
+    }
+  ],
+  "company_url": "https://linear.app",
+  "incomplete": false,
+  "incomplete_reason": "",
+  "fetched_urls": [
+    "https://linear.app",
+    "https://linear.app/about",
+    "https://linear.app/customers/openai",
+    "https://linear.app/pricing"
+  ],
+  "tool_calls": 4,
+  "system": "baseline_fixed",
+  "run_summary": {
+    "type": "run_summary",
+    "system": "baseline_fixed",
+    "company_url": "https://linear.app",
+    "outcome": "ok",
+    "steps": 5,
+    "tool_calls": 4,
+    "claims": 6,
+    "incomplete": false,
+    "errors": 0,
+    "tokens_in": 3155,
+    "tokens_out": 1883,
+    "cost_usd": 0.0,
+    "cost_priced": false,
+    "wall_ms": 61880
+  }
+}
